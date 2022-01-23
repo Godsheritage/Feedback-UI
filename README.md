@@ -69,7 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Feedback Ul is a visually aesthetic web application that collects feedback data from users, that
-consists of a number value on a scale of 1 to 10 and a feedback text. *Developed Front end
-experience using React js "Built a responsive, accessible web page for users to be able to enjoy
-their time on the app *Used Material Ul to make the app more visually aesthetic link:
+`

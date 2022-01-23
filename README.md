@@ -1,3 +1,8 @@
+Feedback Ul is a visually aesthetic web application that collects feedback data from users, that
+consists of a number value on a scale of 1 to 10 and a feedback text. *Developed Front end
+experience using React js "Built a responsive, accessible web page for users to be able to enjoy
+their time on the app *Used Material Ul to make the app more visually aesthetic link:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
